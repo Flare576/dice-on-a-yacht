@@ -5,4 +5,4 @@ A small prototype game as an example. I was given a description of a game called
 
 In order to achieve this, I created an Enumeration of the categories, broke the scoring down into its common elements, and created a command-line interface for entering the dice/categories.
 
-I also noted (in the comments throughout the project) the shortcomings of the game as described, methods for improvment, and future improvements that would benefit this tool.
+I also noted (in the comments throughout the project) the shortcomings of the game as described, methods for improvement, and future improvements that would benefit this tool.
